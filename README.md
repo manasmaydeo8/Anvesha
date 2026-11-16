@@ -76,6 +76,6 @@ npm run lint      # run ESLint
 
 There's no backend. `frontend/src/lib/api.js` simulates a REST API against a database object persisted in `localStorage`, seeded on first load from `frontend/src/data/seedData.js`. All data (languages, notes, guidelines, users, sessions) lives in your browser — clearing site data resets the app to the seed state.
 
-## License
+## GPL License
 
-No license has been specified for this project yet.
+GNU GENERAL PUBLIC LICENSE
